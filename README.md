@@ -1,1 +1,1 @@
-live demo-https://app.netlify.com/projects/akashcalculator1/overview
+live demo-https:https://akashcalculator1.netlify.app/
